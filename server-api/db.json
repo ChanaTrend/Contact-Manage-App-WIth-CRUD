@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "91d75858-f0f8-4bfc-af21-abafbdef9a8b",
+      "name": "Chanaka",
+      "email": "me@chana.com"
+    },
+    {
+      "id": "e2385109-ee01-42a8-aa44-a9dc212fbe29",
+      "name": "Ananda",
+      "email": "test@me.com"
+    },
+    {
+      "id": "6e01bde4-939a-4645-b217-63e60e7348a3",
+      "name": "Nimal",
+      "email": "Contact@gmail.com"
+    },
+    {
+      "id": "44f4b3dc-64e9-4126-b569-8af2f8a33e12",
+      "name": "Nayana1",
+      "email": "do@callme.com"
+    }
+  ]
+}
